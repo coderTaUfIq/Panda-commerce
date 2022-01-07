@@ -1,0 +1,88 @@
+body{
+    font-family: 'Comfortaa', cursive;}
+.navbr{
+    padding-top: 10px;
+}
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.orange-bg p{
+    padding: 30px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: rgb(247, 168, 65);
+}
+.buy-now-button{ 
+    text-decoration: none;
+    background-image: linear-gradient(to bottom,rgb(82, 241, 82) , rgb(135, 243, 135));
+    padding: 8px 12px;
+    border-radius: 9px;
+    color: white;
+    width: 105px;
+    text-align: center;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+}
+.cat-1{
+    background-color: #f8af26;
+    padding: 10px 30px;
+    border-radius: 15px;
+    background-image: linear-gradient(start to end);
+}
+.cat-2{
+    background-color: rgb(22, 133, 109);
+    padding: 10px 30px;
+    border-radius: 15px;
+    background-image: linear-gradient(start to end);
+}
+.cat-3{
+    background-color: rgb(160, 57, 235);
+    padding: 10px 30px;
+    border-radius: 15px;
+    background-image: linear-gradient(start to end);
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.sbw-style{
+    padding-bottom: 30px;
+    font-weight: 300;
+    font-size: 40px;
+}
+.card-title{
+    font-size: 30px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.card{
+    border: none;
+    box-shadow: 2px 5px 6px orchid;
+}
+.card-val{
+    color: brown;
+}
+.card-footer{
+    background-color: rgb(231, 238, 237);
+}
+#subscribe{
+    height: 250px;
+    width: 650px;
+}
+footer{
+    text-align: center;
+}
+input[type="text"] {  
+    font-size: 15px;
+    color: #20e99c;
+  }
